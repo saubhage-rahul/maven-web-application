@@ -95,10 +95,10 @@
 	<distributionManagement>
 	
 	    
-	   <Repository>
+	   <repository>
 	      <id>nexus</id>
 	      <url>http://172.31.40.101:8081/repository/MavenWebApplication-ReleaseRepository/</url>
-	   </Repository>
+	   </repository>
 	    
 	</distributionManagement>
 	
