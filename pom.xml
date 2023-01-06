@@ -94,10 +94,6 @@
 	
 	<distributionManagement>
 	
-	    <repository>
-	      <id>nexus</id>
-	      <url>http://172.31.36.249:8081/repository/MavenWebApplication-release/</url>
-	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
